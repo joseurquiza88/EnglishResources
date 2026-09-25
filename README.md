@@ -23,6 +23,9 @@ Grammar explanations and interactive exercises, including B1–B2 topics.
 - British Council – LearnEnglish [Link](https://learnenglish.britishcouncil.org/free-resources/grammar) 
 - Cambridge English [Link](https://www.cambridgeenglish.org/learning-english/) 
 
+#### ✍️ My exercises
+Exercises I created using different resources and topics (including podcasts and grammar websites), with the help of AI tools such as ChatGPT and Claude.
+- [Link](Exercises)
 ---
 
 ### 🗣️ Conversation
@@ -61,6 +64,13 @@ Resources for improving reading comprehension through short stories, graded text
 - `7000_Advanced_English_Vocabulary_Grammar_B1-C2_Español`
 ---
 
+### Writings
+#### ✍️ My exercises
+Exercises I created using different resources and topics (including podcasts and grammar websites), with the help of AI tools such as ChatGPT and Claude.
+[Link](Writings)
+
+---
+
 ### 🎓 Free Courses & Academies
 
 ### Santander Open Academy [Link](https://www.santanderopenacademy.com/en/index.html)  
@@ -73,3 +83,5 @@ Some English courses open for applications **2–3 times per year**, so availabi
 
 This repository is a personal collection of resources.
 I will gradually add new resources, notes, exercises, useful expressions, and tools as I discover and use them.
+
+---
