@@ -1,0 +1,87 @@
+# English Learning Resources
+
+A personal collection of resources I use to practice and improve my English, with a focus on **B1–B2+ level**, listening, vocabulary, grammar, and conversation.
+The resources include both **British and American English**.
+
+---
+
+### 🎧 Podcasts & Listening
+
+Resources for improving listening comprehension and getting used to different accents, speaking styles, and topics with vocabulary and grammar.
+
+- High Level Listening – Advanced English Podcast (20-25 min, American & British English) [Link](https://www.youtube.com/@highlevellistening) 
+- Speak English With Class (20-25 min) [Link](https://www.youtube.com/@SpeakEnglishWithClass) 
+- English Avenue (40+ min) [Link](https://www.youtube.com/@EnglishAvenuee) 
+- Eng-Saga Learning (20-30 min) [Link](https://www.youtube.com/@EngSagaLearning) 
+
+
+
+---
+
+### 📚 Grammar
+Grammar explanations and interactive exercises, including B1–B2 topics.
+- British Council – LearnEnglish [Link](https://learnenglish.britishcouncil.org/free-resources/grammar) 
+- Cambridge English [Link](https://www.cambridgeenglish.org/learning-english/) 
+
+#### ✍️ My exercises
+Exercises I created using different resources and topics (including podcasts and grammar websites), with the help of AI tools such as ChatGPT and Claude.
+- [Link](Exercises)
+---
+
+### 🗣️ Conversation
+Resources for practicing speaking with other people and getting used to spontaneous conversations.
+
+- Episoden (Not tried yet) ([Link](https://www.episoden.com) 
+Short conversations (around 7–10 minutes) with another person, including **audio and video**.
+> Goal: practice spontaneous conversation with people I don't know.
+
+---
+### 📖 Reading
+Resources for improving reading comprehension through short stories, graded texts, and books in English.
+
+#### 🌐 Online Resources
+- **British Council – Story Zone (B2–C1)** [Link](https://learnenglish.britishcouncil.org/free-resources/general/story-zone)  
+- **InfoLibros – English Books & Short Stories** [Link](https://infolibros.org/libros-pdf-gratis/libros-en-ingles/) 
+
+#### ✍️ My Stories
+- [Link](Reading)
+
+
+---
+### 🧠 Vocabulary
+**Main focus:** vocabulary, phrases, phrasal verbs, listening, and English–Spanish translation.
+- Anki
+[AnkiWeb – Shared Decks](https://ankiweb.net/decks)
+
+#### Decks
+- `Common_Phrases_in_EnglishSpanish`
+- `1000_Most_Important_Netflix_Words_-_V1_English-Spanish`
+- `1000_phrases_english-spanish`
+- `Common_phrasal_verbs_en-es`
+- `Advanced_English_Vocabulary_part_IV`
+- `Advanced_English_Melange_vol_1`
+- `English_-_Improve_Your_Listening_Skills`
+- `7000_Advanced_English_Vocabulary_Grammar_B1-C2_Español`
+---
+
+### Writings
+#### ✍️ My exercises
+Exercises I created using different resources and topics (including podcasts and grammar websites), with the help of AI tools such as ChatGPT and Claude.
+[Link](Writings)
+
+---
+
+### 🎓 Free Courses & Academies
+
+### Santander Open Academy [Link](https://www.santanderopenacademy.com/en/index.html)  
+Free online courses and learning opportunities.
+Some English courses open for applications **2–3 times per year**, so availability depends on the current call.
+
+
+
+#### 📝 Notes
+
+This repository is a personal collection of resources.
+I will gradually add new resources, notes, exercises, useful expressions, and tools as I discover and use them.
+
+---
