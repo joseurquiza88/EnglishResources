@@ -5,20 +5,6 @@ The resources include both **British and American English**.
 
 ---
 
-## 🧠 Anki
-**Main focus:** vocabulary, phrases, phrasal verbs, listening, and English–Spanish translation.
-[AnkiWeb – Shared Decks](https://ankiweb.net/decks)
-
-### Decks
-
-- `Common_Phrases_in_EnglishSpanish`
-- `1000_Most_Important_Netflix_Words_-_V1_English-Spanish`
-- `1000_phrases_english-spanish`
-- `Common_phrasal_verbs_en-es`
-- `Advanced_English_Vocabulary_part_IV`
-- `Advanced_English_Melange_vol_1`
-- `English_-_Improve_Your_Listening_Skills`
-- `7000_Advanced_English_Vocabulary_Grammar_B1-C2_Español`
 
 
 ---
@@ -51,9 +37,9 @@ https://www.youtube.com/@EngSagaLearning
 
 ## 📚 Grammar
 
-### British Council – LearnEnglish
+### British Council – LearnEnglish [Link](https://learnenglish.britishcouncil.org/free-resources/grammar) 
 
-https://learnenglish.britishcouncil.org/free-resources/grammar
+
 
 Grammar explanations and interactive exercises, including B1–B2 topics.
 
@@ -70,8 +56,8 @@ Grammar and English-learning activities from Cambridge English.
 Resources for practicing speaking with other people and getting used to spontaneous conversations.
 
 ### Episoden
+[Link](https://www.episoden.com) 
 
-https://www.episoden.com
 
 **Not tried yet.**
 
@@ -80,12 +66,43 @@ Short conversations (around 7–10 minutes) with another person, including **aud
 > Goal: practice spontaneous conversation with people I don't know.
 
 ---
+# 📖 Reading
+
+Resources for improving reading comprehension through short stories, graded texts, and books in English.
+
+### 🌐 Online Resources
+
+- **British Council – Story Zone (B2–C1)** [Link](https://learnenglish.britishcouncil.org/free-resources/general/story-zone)  
+
+- **InfoLibros – English Books & Short Stories** [Link](https://infolibros.org/libros-pdf-gratis/libros-en-ingles/) 
+
+### ✍️ My Stories
+
+- [Link](Reading)
+
+
+---
+## 🧠 Vocabulary
+**Main focus:** vocabulary, phrases, phrasal verbs, listening, and English–Spanish translation.
+[AnkiWeb – Shared Decks](https://ankiweb.net/decks)
+
+### Decks
+
+- `Common_Phrases_in_EnglishSpanish`
+- `1000_Most_Important_Netflix_Words_-_V1_English-Spanish`
+- `1000_phrases_english-spanish`
+- `Common_phrasal_verbs_en-es`
+- `Advanced_English_Vocabulary_part_IV`
+- `Advanced_English_Melange_vol_1`
+- `English_-_Improve_Your_Listening_Skills`
+- `7000_Advanced_English_Vocabulary_Grammar_B1-C2_Español`
+---
 
 ## 🎓 Free Courses & Academies
 
 ### Santander Open Academy
+[Link](https://www.santanderopenacademy.com/en/index.html)  
 
-https://www.santanderopenacademy.com/en/index.html
 
 Free online courses and learning opportunities.
 
