@@ -71,6 +71,11 @@ Exercises I created using different resources and topics (including podcasts and
 
 ---
 
+### English Level test
+- EF [Link](https://www.efset.org/) (50/90 mins)
+- internationalenglishtest [Link](https://internationalenglishtest.com/) (30 mins)
+
+---
 ### 🎓 Free Courses & Academies
 
 ### Santander Open Academy [Link](https://www.santanderopenacademy.com/en/index.html)  
@@ -78,7 +83,7 @@ Free online courses and learning opportunities.
 Some English courses open for applications **2–3 times per year**, so availability depends on the current call.
 
 
-
+---
 #### 📝 Notes
 
 This repository is a personal collection of resources.
