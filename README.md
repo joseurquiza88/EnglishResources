@@ -85,6 +85,13 @@ Some English courses open for applications **2–3 times per year**, so availabi
 Some materials [Link](Courses)
 
 ---
+
+### Data resources in English
+- Data Studio (Looker Studio) video [Link](https://www.youtube.com/@siavashkanani) 
+
+
+
+
 #### 📝 Notes
 
 This repository is a personal collection of resources.
