@@ -1,3 +1,4 @@
+<img width="1280" height="320" alt="banner_english" src="https://github.com/user-attachments/assets/b19ac618-0157-4f41-9246-7b70c8f2014b" />
 # English Learning Resources
 
 A personal collection of resources I use to practice and improve my English, with a focus on **B1–B2+ level**, listening, vocabulary, grammar, and conversation.
